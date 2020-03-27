@@ -60,7 +60,30 @@ window.Seed = (function(){
             avatar: '../public/images/avatars/Penny.png',
             brawlerImage: '../public/images/submissions/Penny.png',
         },
-        
+        {
+            id: 6,
+            nomeEng: 'Colt',
+            nomeIta: 'Colt',
+            descrizione: 'Colt spara da lontano con due pistole. Ha una stellina dietro il vestito. Curiosità: ha due pistole ma ha una sola fondina.',
+            url: 'https://brawlstars.fandom.com/wiki/Colt',
+            trofei: 0,
+            puntiVita: 3640,
+            attacco:416,
+            avatar: '../public/images/avatars/Colt.png',
+            brawlerImage: '../public/images/submissions/Colt.png',
+        },
+        {
+            id: 7,
+            nomeEng: 'Jacky',
+            nomeIta: 'Colt',
+            descrizione: 'Quando attacca, salta sul suo martello pneumatico come una pogo stick e infligge ingenti danni ad area. Jacky ha anche una buona salute, rendendola in grado di resistere a molti danni.',
+            url: 'https://brawlstars.fandom.com/wiki/Jacky',
+            trofei: 55,
+            puntiVita: 7150,
+            attacco:  1560,
+            avatar: '../public/images/avatars/Jacky.png',
+            brawlerImage: '../public/images/submissions/Jacky.png',
+        },
         
     ];
 
