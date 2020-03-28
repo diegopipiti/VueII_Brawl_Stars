@@ -1,5 +1,13 @@
 /* Miscellaneous Styles */
 
+.sfondoG{
+  background: #6e6e6e;
+}
+
+.sfondoW{
+  background: white;
+}
+
 .dividing-header {
   margin-top: 1em;
   margin-bottom: 2em;
@@ -22,7 +30,7 @@
 }
 
 .blue-border {
-  border: 1px solid #3373dc !important;
+  border: 2px solid #3373dc !important;
 }
 
 .tag {
@@ -43,6 +51,10 @@
 .red-text{
   color: red;
   font-weight: 800; 
+}
+
+.w-text{
+  color: white;
 }
 
 .lista-piccola{

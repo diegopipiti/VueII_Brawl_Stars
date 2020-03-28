@@ -42,7 +42,7 @@ window.Seed = (function(){
             nomeIta: 'Jessie',
             descrizione: 'Jessie stessa ha una salute media ed è in grado di fare danni elevati. Può posizionare una torretta ottima per distrarre gli avversari e fornire supporto e difesa.',
             url: 'https://brawlstars.fandom.com/wiki/Jessie',
-            trofei: 19,
+            trofei: 53,
             puntiVita: 4160,
             attacco:1092,
             avatar: '../public/images/avatars/Jessie.png',
